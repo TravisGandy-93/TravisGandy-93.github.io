@@ -1,11 +1,11 @@
 # Site settings
 author: Travis Gandy
-title: 
+title: Why I decided to study Software Engineering
 header-img: img/home-bg.png
 email: travis_gandy@yahoo.com
 copyright_name: Travis Gandy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Great Vision
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TravisGandy-93
